@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.quit_smoking_app.quit_smoking_app"
-    compileSdk = flutter.compileSdkVersion
+    compileSdk = 34
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
